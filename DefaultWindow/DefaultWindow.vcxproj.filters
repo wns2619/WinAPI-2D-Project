@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. MainGame">
+      <UniqueIdentifier>{9519dae6-4498-4c11-86a3-4b3cebd0e891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj">
+      <UniqueIdentifier>{34ea21b2-7929-44bb-ad75-74ee86870eba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player">
+      <UniqueIdentifier>{9bf70e91-be93-40ad-a3c9-dce4e8e025cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager">
+      <UniqueIdentifier>{b13ba888-3f42-4027-9fe5-6e756203de30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Time">
+      <UniqueIdentifier>{7339407f-9927-46e6-b84b-3f28cae9fb5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Resource">
+      <UniqueIdentifier>{7f4aa1a0-9e44-42c1-97d1-9a9f9748f312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Resource\Texture">
+      <UniqueIdentifier>{d785b542-4a49-4870-9c59-ea3c97baafc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Resource\Sound">
+      <UniqueIdentifier>{a1b6111f-5442-42a9-ba48-76042a9eab6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Header">
+      <UniqueIdentifier>{9d42ffce-b1fc-4d21-abfe-c365748add5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Key">
+      <UniqueIdentifier>{66c6459a-4625-46dd-8f81-cbc6b49b9439}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Resource">
+      <UniqueIdentifier>{9f1b86b3-ced3-46eb-88d2-b0c54cc1285e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Scene">
+      <UniqueIdentifier>{f73f3ec1-2d72-4f12-827a-487d998924c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene">
+      <UniqueIdentifier>{fa994c3a-bb62-4f19-a81b-2b9153f67422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\00.Logo">
+      <UniqueIdentifier>{d8b7b9c1-6d7d-47fb-973a-ab695cb32ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\01.Menu">
+      <UniqueIdentifier>{5ba38c92-109e-450a-9e00-b569f67d66be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\02.Edit">
+      <UniqueIdentifier>{3b608ec6-3dbb-4f38-b5c3-509aa19e76e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\03.Stage">
+      <UniqueIdentifier>{b17c4a4c-b1e8-4f19-830b-d869e3cefccb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\03.Stage\Stage_01">
+      <UniqueIdentifier>{18af5eed-5fbf-4eb5-94af-1d42e91d762d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Scroll">
+      <UniqueIdentifier>{717b9263-5673-4754-acab-1288468ebf6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Collision">
+      <UniqueIdentifier>{8776b703-6260-400d-9729-b59dc507e7f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Event">
+      <UniqueIdentifier>{f88df8b3-87aa-46fa-b509-c258ca526759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\AbstractFactory">
+      <UniqueIdentifier>{3c2bf777-c858-45fa-b00f-f5312ab8c89e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Obj">
+      <UniqueIdentifier>{2f690f66-2255-477a-a962-8c1c4def13a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block">
+      <UniqueIdentifier>{20d44c20-bbe4-4553-b2c6-ad53c67a37c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Line">
+      <UniqueIdentifier>{6e5c2eac-1b1b-4878-b72c-3ed22f0c4020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Line\LineCpp">
+      <UniqueIdentifier>{147f4207-7b8d-43eb-96e7-f2646d0dc37a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Tile">
+      <UniqueIdentifier>{bef52b9a-9fa7-4a55-b650-756bcce82732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\00.Move_Block">
+      <UniqueIdentifier>{97274e58-02d2-43f4-b9a5-7c6e1afc308c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\01.Pass_Block">
+      <UniqueIdentifier>{a8b4cac7-3002-4bd2-a585-99997b128864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\01.NORMAL">
+      <UniqueIdentifier>{2c66e452-d34b-4aea-91b2-94057cc8306b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\02.SideBlock">
+      <UniqueIdentifier>{bd67b05e-1b76-4055-91a1-40f27b1f9025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\03.Pattern">
+      <UniqueIdentifier>{cd33d8b6-ba0e-456b-8f47-5ae712df4d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. Monster">
+      <UniqueIdentifier>{71e7f669-818a-45c9-812e-41f47b5e2d19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. Monster\BullDog">
+      <UniqueIdentifier>{1b61d2b6-1388-43de-87d4-498ef39e7c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Sound">
+      <UniqueIdentifier>{d44a7b22-cb75-4edc-824f-90d8c84977c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\03.Stage\Scene_Re">
+      <UniqueIdentifier>{5ac8b2be-ee66-4ca4-a62e-86ed8b97d318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\Sound\fmod">
+      <UniqueIdentifier>{6e176e0a-6a27-4506-9ce6-3b09b1767934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. Monster\Wolf">
+      <UniqueIdentifier>{eac84f80-e25c-4ed7-a112-bbeff60f908c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. Block\04.TransParent">
+      <UniqueIdentifier>{36f00cff-5fef-4521-ae16-337a36f6c773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\03. Egg">
+      <UniqueIdentifier>{feeb4689-4987-4356-bdb0-feb300a2f3a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\03.Stage\Stage_01\04.Scene_Tool">
+      <UniqueIdentifier>{96685729-3dca-421c-8902-4dec04ed01e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Font">
+      <UniqueIdentifier>{e7cca1a2-4142-448d-a9de-e9b01fa89b08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\UI">
+      <UniqueIdentifier>{cb32fcc4-c39a-42c6-a568-c36e693ad94b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\03.Stage\Clear_Scene">
+      <UniqueIdentifier>{ef69249c-6e29-40a6-aae5-224be7635a13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00. MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01. Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>99.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>99.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Template.h">
+      <Filter>99.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>99.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Enumclass.h">
+      <Filter>99.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>03.Manager\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>04.Resource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="ResMgr.h">
+      <Filter>03.Manager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>03.Manager\Key</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>03.Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>02.Scene\00.Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_01.h">
+      <Filter>02.Scene\03.Stage\Stage_01</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>03.Manager\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>03.Manager\Scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="EventMgr.h">
+      <Filter>03.Manager\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbstractFactory.h">
+      <Filter>03.Manager\AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>03.Manager\Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>01. Obj\01. Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>03.Manager\Line\LineCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="LineMgr.h">
+      <Filter>03.Manager\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="MyEdit.h">
+      <Filter>02.Scene\02.Edit</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveBlock.h">
+      <Filter>01. Obj\01. Block\00.Move_Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Egg.h">
+      <Filter>01. Obj\03. Egg</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalBlock.h">
+      <Filter>01. Obj\01. Block\01.NORMAL</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Tool.h">
+      <Filter>02.Scene\03.Stage\Stage_01\04.Scene_Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="SideBlock.h">
+      <Filter>01. Obj\01. Block\02.SideBlock</Filter>
+    </ClInclude>
+    <ClInclude Include="PassBlock.h">
+      <Filter>01. Obj\01. Block\01.Pass_Block</Filter>
+    </ClInclude>
+    <ClInclude Include="PatternBlock.h">
+      <Filter>01. Obj\01. Block\03.Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Bulldog.h">
+      <Filter>01. Obj\02. Monster\BullDog</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>03.Manager\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_ReStart.h">
+      <Filter>02.Scene\03.Stage\Scene_Re</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.hpp">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_codec.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_dsp.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_errors.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_memoryinfo.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_output.h">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="Wolf.h">
+      <Filter>01. Obj\02. Monster\Wolf</Filter>
+    </ClInclude>
+    <ClInclude Include="TransParentBlock.h">
+      <Filter>01. Obj\01. Block\04.TransParent</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectGDI.h">
+      <Filter>05.Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>02.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>03.Manager\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMgr.h">
+      <Filter>03.Manager\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Clear.h">
+      <Filter>02.Scene\03.Stage\Clear_Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00. MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>03.Manager\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>04.Resource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="ResMgr.cpp">
+      <Filter>03.Manager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>03.Manager\Key</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>03.Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>02.Scene\00.Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_01.cpp">
+      <Filter>02.Scene\03.Stage\Stage_01</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>03.Manager\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>03.Manager\Scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="EventMgr.cpp">
+      <Filter>03.Manager\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>03.Manager\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>03.Manager\Line\LineCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="LineMgr.cpp">
+      <Filter>03.Manager\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMgr.cpp">
+      <Filter>03.Manager\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="MyEdit.cpp">
+      <Filter>02.Scene\02.Edit</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveBlock.cpp">
+      <Filter>01. Obj\01. Block\00.Move_Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Egg.cpp">
+      <Filter>01. Obj\03. Egg</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalBlock.cpp">
+      <Filter>01. Obj\01. Block\01.NORMAL</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Tool.cpp">
+      <Filter>02.Scene\03.Stage\Stage_01\04.Scene_Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="SideBlock.cpp">
+      <Filter>01. Obj\01. Block\02.SideBlock</Filter>
+    </ClCompile>
+    <ClCompile Include="PassBlock.cpp">
+      <Filter>01. Obj\01. Block\01.Pass_Block</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternBlock.cpp">
+      <Filter>01. Obj\01. Block\03.Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="Bulldog.cpp">
+      <Filter>01. Obj\02. Monster\BullDog</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01. Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>03.Manager\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_ReStart.cpp">
+      <Filter>02.Scene\03.Stage\Scene_Re</Filter>
+    </ClCompile>
+    <ClCompile Include="Wolf.cpp">
+      <Filter>01. Obj\02. Monster\Wolf</Filter>
+    </ClCompile>
+    <ClCompile Include="TransParentBlock.cpp">
+      <Filter>01. Obj\01. Block\04.TransParent</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectGDI.cpp">
+      <Filter>05.Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>02.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>03.Manager\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>01. Obj\01. Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Clear.cpp">
+      <Filter>02.Scene\03.Stage\Clear_Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DefaultWindow.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="DefaultWindow.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fmodex.dll">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </None>
+    <None Include="fmodexL.dll">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="fmodex_vc.lib">
+      <Filter>03.Manager\Sound\fmod</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,63 @@
+﻿  stdafx.cpp
+  Block.cpp
+  Bulldog.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Bulldog.cpp(80,8): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Bulldog.cpp(99,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Bulldog.cpp(440,43): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\CollisionMgr.cpp(55,41): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DefaultWindow.cpp
+  Egg.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Egg.cpp(62,20): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Egg.cpp(63,20): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Egg.cpp(129,9): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Egg.cpp(160,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EventMgr.cpp
+  KeyMgr.cpp
+  Line.cpp
+  LineMgr.cpp
+  Logo.cpp
+  MainGame.cpp
+  MoveBlock.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\MoveBlock.cpp(79,8): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyEdit.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\MyEdit.cpp(144,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NormalBlock.cpp
+  Obj.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Obj.cpp(47,15): warning C4244: '인수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjMgr.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\ObjMgr.cpp(314,42): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PassBlock.cpp
+  PatternBlock.cpp
+  Player.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Player.cpp(144,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Player.cpp(615,8): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResMgr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Scene.cpp
+  SceneMgr.cpp
+  Scene_Clear.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Scene_Clear.cpp(46,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_ReStart.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Scene_ReStart.cpp(55,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Tool.cpp
+  ScrollMgr.cpp
+  SelectGDI.cpp
+  SideBlock.cpp
+  SoundMgr.cpp
+  Stage_01.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Stage_01.cpp(60,106): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Stage_01.cpp(97,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+  TileMgr.cpp
+  TimeMgr.cpp
+  TransParentBlock.cpp
+  UI.cpp
+  Wolf.cpp
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Wolf.cpp(78,43): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Wolf.cpp(87,12): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Wolf.cpp(103,8): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\DefaultWindow\Wolf.cpp(122,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  DefaultWindow.vcxproj -> C:\Users\JunYeop\Desktop\개인API\API 시연회\DefaultWindow (1)\Debug\DefaultWindow.exe
